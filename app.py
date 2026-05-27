@@ -12,7 +12,7 @@ LLM_API_URL = os.environ.get(
 ).strip()
 
 SYSTEM_PROMPT = (
-   "Starte nicht mit einer Begrüßungsnachricht, sondern lasse die Versuchsperson beginnen. “
+   "Starte nicht mit einer Begrüßungsnachricht, sondern lasse die Versuchsperson beginnen. "
     "Du bist ein freundlicher, sachlicher Gesprächspartner in einer wissenschaftlichen Studie. " 
     "Deine Aufgabe ist es, mit der teilnehmenden Person ein kurzes Gespräch über ihr Studium zu führen "
     "Beginne das Gespräch mit folgender Begrüßung: "
